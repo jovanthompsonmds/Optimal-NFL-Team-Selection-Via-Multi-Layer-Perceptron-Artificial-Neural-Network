@@ -41,7 +41,7 @@ This project aims to select optimal NFL team players from a pool of active and r
 1. Clone the repository:
    git clone https://github.com/jovanthompsonmds/Optimal-NFL-Team-Selection-Via-Multi-Layer-Perceptron-Artificial-Neural-Network.git   
 2. Navigate to the project directory:   
-   cd https://github.com/jovanthompsonmds/Optimal-NFL-Team-Selection-Via-Multi-Layer-Perceptron-Artificial-Neural-Network.git 
+   cd repo-name
 3. Install required Python packages:   
    pip install -r requirements.txt
    
